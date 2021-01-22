@@ -64,7 +64,7 @@ console.log(budget);
 
 // Magafriend
 
-function magaName(name){
+function magaFriend(name){
     var longName = "";
     for(var i = 0; i < name.length; i++){
         if(name[i] > longName){
